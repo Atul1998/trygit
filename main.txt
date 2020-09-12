@@ -2,3 +2,4 @@ HI this is a new file to work on
 Adding new function
 First function is for adding logo's
 nav bar to the website
+new section  added by atul
