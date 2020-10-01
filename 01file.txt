@@ -2,3 +2,4 @@ This is my first file for git
 
 we have added new branch for new nev bar
 New function added
+function1 added
